@@ -1,2 +1,45 @@
-# Laboratorio-8
-Inductor y Capacitor
+# Laboratorio 8
+# Inductor y Capacitor
+
+1. OBJETIVOS
+
+1.1 OBJETIVOS GENERALES
+
+* 
+
+1.2 OBJETIVOS ESPECIFICOS
+
+* 
+
+2. MARCO TEORICO
+
+![]()
+
+3. DIAGRAMAS
+
+
+4. LISTA DE COMPONENTES
+
+![]()
+
+5. EXPLICACIÓN / RESOLUCIÓN
+
+*
+
+![]()
+
+6. MANUAL DE USUARIO
+
+
+7. CONCLUSIONES
+
+* 
+
+8. PREGUNTAS
+
+* 
+
+RESPUESTA = 
+
+
+9. BIBLIOGRAFIA

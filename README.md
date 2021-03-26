@@ -71,39 +71,33 @@
 
 * Corriente y voltaje medidos con multímetro y voltaje con osciloscopio con f=0:
 
-![]()
-![]()
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Voltaje%20y%20Corriente%20en%20f%3D0Hz%20Ind.png)
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Oscilacion%20f%3D0Hz%20Ind.png)
 
 * Corriente y voltaje medidos con multímetro y voltaje con osciloscopio con f=10:
 
-![]()
-![]()
-
-* Corriente y voltaje medidos con multímetro y voltaje con osciloscopio con f=0:
-
-![]()
-![]()
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Voltaje%20y%20Corriente%20en%20f%3D0Hz%210Ind.png)
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Oscilacion%20f%3D0Hz%210Ind.png)
 
 * Corriente y voltaje medidos con multímetro y voltaje con osciloscopio con f=50:
 
-![]()
-![]()
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Voltaje%20y%20Corriente%20en%20f%3D0Hz%250Ind.png)
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Oscilacion%20f%3D0Hz%250Ind.png)
 
 * Corriente y voltaje medidos con multímetro y voltaje con osciloscopio con f=100:
 
-![]()
-![]()
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Voltaje%20y%20Corriente%20en%20f%3D0Hz%2100Ind.png)
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Oscilacion%20f%3D0Hz%2100Ind.png)
 
 * Corriente y voltaje medidos con multímetro y voltaje con osciloscopio con f=500:
 
-![]()
-![]()
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Voltaje%20y%20Corriente%20en%20f%3D0Hz%2500Ind.png)
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Oscilacion%20f%3D0Hz%2500Ind.png)
 
 * Corriente y voltaje medidos con multímetro y voltaje con osciloscopio con f=1000:
 
-![]()
-![]()
-
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Voltaje%20y%20Corriente%20en%20f%3D0Hz%21000Ind.png)
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Oscilacion%20f%3D0Hz%21000Ind.png)
 
 4. LISTA DE COMPONENTES
 

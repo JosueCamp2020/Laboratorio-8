@@ -175,3 +175,7 @@ RESPUESTAS = Los  valores  eficaces  de  corriente  y  voltaje  son  aquellos  v
 ![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Formula.png)
 
 9. BIBLIOGRAFIA
+
+* Electrotecnia. ( 9 de abril de 2008). Obtenido de http://electrotecnia8tgmeb26506.blogspot.com/2008/04/el-capacitor-e-inductor.html
+* Monografias PLUS. (2019). Obtenido de https://www.monografias.com/docs/Inductores-y-capacitores-P3KYC22PL9CF
+* VARGAS MORELLI , L. M., & MALDONADO RIOS , E. (2008). sistemamid.com. Obtenido de https://www.sistemamid.com/panel/uploads/biblioteca/1/349/1259/6572/6589/77754.pdf

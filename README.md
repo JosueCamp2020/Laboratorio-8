@@ -25,7 +25,7 @@
 
 * Circuito 2
  
-![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Circuito2.png)
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Circuito%202.png)
 
 * Armado del circuito 1 en Multisim
 

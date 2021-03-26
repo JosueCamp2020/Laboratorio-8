@@ -20,15 +20,19 @@
 3. DIAGRAMAS
 
 * Circuito 1
+
 ![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Circuito1.png)
 
 * Circuito 2
+ 
 ![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Circuito2.png)
 
 * Armado del circuito 1 en Multisim
+
 ![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Armado%201%20Multisim.png)
 
 * Armado del circuito 2 en Multisim
+
 ![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Armado%202%20Multisim.png)
 
 * Resolucion de capacitancias con frecuencias de 0,10,50,100,500,1000

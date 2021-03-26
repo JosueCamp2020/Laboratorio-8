@@ -19,19 +19,19 @@
 
 3. DIAGRAMAS
 
-* Circuito 1
+* Circuito 1 con Capacitores
 
 ![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Circuito1.png)
 
-* Circuito 2
+* Circuito 2 con Inductores
  
 ![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Circuito%202.png)
 
-* Armado del circuito 1 en Multisim
+* Armado del circuito 1 Capacitores en Multisim
 
 ![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Armado%201%20Multisim.png)
 
-* Armado del circuito 2 en Multisim
+* Armado del circuito 2 Inductores en Multisim
 
 ![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Armado%202%20Multisim.png)
 
@@ -115,9 +115,11 @@
 * Tablas con los valores regitrados tanto en los capacitores como en los inductores con su respectivo calculo del error.
 
 * Tabla 1 para Capacitores
+
 ![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Tabla1.png)
 
 * Tabla 2 para Inductores
+
 ![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Tabla2.png)
 
 6. MANUAL DE USUARIO
@@ -126,7 +128,7 @@ Link Manual: https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Anexos/Mul
 
 7. CONCLUSIONES
 
-* Se ha comprendido el comportamiento de las bobinas y capacitores en corriente directa, donde se determinó que en un capacitor el comportamiento es parecido al de un circuito abierto, mientras que para la bobina el comportamiento se asemeja al de un cortocirctuio. Además fue posible evidenciar otros comportamiento de estos componentes cuando es usada la corriente alterna.
+* Se ha comprendido el comportamiento de las bobinas y capacitores en corriente directa, donde se determinó que en un capacitor el comportamiento es parecido al de un circuito abierto, mientras que para la bobina el comportamiento se asemeja al de un cortocircuito. Además fue posible evidenciar otros comportamiento de estos componentes cuando es usada la corriente alterna.
 * Se determinó distintos valores de reactancia dependiendo de el componente usado y se comprendió como se calcula la capacitancia equivalente en un circuito en serie y paralelo. Para los capacitores en paralelo se suman las capacitancias mientras que para las bobinas, el recíproco de la inductancia equivalente será la suma algebraica de los rec;iprocos de las inductancias individuales.
 * Se han determinado distinto errores entre entre los voltajes, ya que existe un error de lectura frente al osciloscopio, además de que el coltaje rms calculado es una medida indirecta, mientras que el multímetro nos da un valor rms mejor aproximado.
 

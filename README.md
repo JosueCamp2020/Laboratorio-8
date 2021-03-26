@@ -36,32 +36,32 @@
 * Corriente y voltaje medidos con multímetro y voltaje con osciloscopio con f=0:
 
 ![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Voltaje%20y%20Corriente%20en%20f%3D0Hz.png)
-![]()
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Oscilacion%20f%3D0Hz.png)
 
 * Corriente y voltaje medidos con multímetro y voltaje con osciloscopio con f=10:
 
 ![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Voltaje%20y%20Corriente%20en%20f%3D10Hz.png)
-![]()
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Oscilacion%20f%3D10Hz.png)
 
 * Corriente y voltaje medidos con multímetro y voltaje con osciloscopio con f=50:
 
 ![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Voltaje%20y%20Corriente%20en%20f%3D50Hz.png)
-![]()
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Oscilacion%20f%3D50Hz.png)
 
 * Corriente y voltaje medidos con multímetro y voltaje con osciloscopio con f=100:
 
 ![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Voltaje%20y%20Corriente%20en%20f%3D100Hz.png)
-![]()
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Oscilacion%20f%3D100Hz.png)
 
 * Corriente y voltaje medidos con multímetro y voltaje con osciloscopio con f=500:
 
 ![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Voltaje%20y%20Corriente%20en%20f%3D500Hz.png)
-![]()
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Oscilacion%20f%3D500Hz.png)
 
 * Corriente y voltaje medidos con multímetro y voltaje con osciloscopio con f=1000:
 
 ![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Voltaje%20y%20Corriente%20en%20f%3D1000Hz.png)
-![]()
+![](https://github.com/JosueCamp2020/Laboratorio-8/blob/main/Imagenes/Oscilacion%20f%3D1000Hz.png)
 
 * Resolucion de capacitancias con frecuencias de 0,10,50,100,500,1000
 
